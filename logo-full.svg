@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64">
+  <g>
+  <path d="M5 45 C3 25 16 8 35 8 C51 8 60 19 60 32 L60 42 C60 49 55 54 48 54 L15 54 C9 54 5 51 5 45 Z" fill="#ff2e2e" stroke="#16181d" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M19 12 L11 31 L19 31 L14 49 L30 25 L22 25 L28 12 Z" fill="#ffd21f" stroke="#16181d" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M35 25 C35 23 36.5 22 39 22 L54 22 C56 24.5 57 27 57.5 30 L57.5 35 L38 35 C36 35 35 34 35 32.5 Z" fill="#2aa8ff" stroke="#16181d" stroke-width="2.5"/>
+  <ellipse cx="42.5" cy="28.5" rx="3.6" ry="4.4" fill="#fff"/><ellipse cx="51.5" cy="28.5" rx="3.6" ry="4.4" fill="#fff"/>
+  <circle cx="43.6" cy="29.3" r="2.1" fill="#16181d"/><circle cx="52.6" cy="29.3" r="2.1" fill="#16181d"/>
+  <path d="M41 43 Q47 48 53 43" fill="none" stroke="#16181d" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+  <text x="74" y="47" transform="skewX(-12) translate(10 0)" font-family="'Russo One','Arial Black',Impact,sans-serif" font-weight="900" font-size="40" fill="#ffffff" letter-spacing="1">TURBIKO</text>
+  <path d="M84 54 L290 54" stroke="#ff2e2e" stroke-width="4"/><path d="M84 60 L230 60" stroke="#ffd21f" stroke-width="3"/>
+</svg>
